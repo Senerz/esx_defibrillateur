@@ -20,12 +20,12 @@ __Guide d'installation__ :
 Ancien :                                                                                                                                 
 --if xPlayer.job.name == 'ambulance' then
 
-Nouveau :
+Nouveau :                                                                                                                               
 --if xPlayer.job.name == 'ambulance' then
-
+                                                                                                                                         
 if true then 
 
-
+                                                                                                                                        
 __Lien de téléchargement du script__ :
 
 https://github.com/Senerz/esx_defibrillateur
