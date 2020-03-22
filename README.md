@@ -1,4 +1,4 @@
-**Défibrillateur mis à jour**
+**Défibrillateur mis à jour.**
 
 Un défibrillateur définit en tant qu'item avec un usage indéfini.
 
