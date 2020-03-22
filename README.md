@@ -32,4 +32,4 @@ https://github.com/Senerz/esx_defibrillateur
 
 __Lien de téléchargement du script d'origine__ :
 
-https://github.com/Senerz/esx_defibrillateur
+https://github.com/Slamdunk91/defib
