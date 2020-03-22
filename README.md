@@ -19,7 +19,7 @@ __Guide d'installation__ :
 
 
 Ancien :                                                                                                                                 
---if xPlayer.job.name == 'ambulance' then
+if xPlayer.job.name == 'ambulance' then
 
 Nouveau :                                                                                                                               
 --if xPlayer.job.name == 'ambulance' then
