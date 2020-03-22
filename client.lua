@@ -1,4 +1,4 @@
--- Name of defibrillator item in database
+-- Nom du défibrillateur dans la base de données.
 local defibItemName = 'defib'
 
 Citizen.CreateThread(function()
