@@ -1,1 +1,0 @@
-INSERT INTO `items` (`name`, `label`, `limit`, `rare`, `can_remove`) VALUES ('defib', 'Défibrillateur', '201', '0', '1');
