@@ -7,7 +7,7 @@ __Script requis__ :
 
 __Ordre à start dans le "server.cfg"__ : 
 - start esx_ambulancejob
-- start defib
+- start esx_defibrillateur
 
 __Guide d'installation__ :
 - Téléchargé le script.
