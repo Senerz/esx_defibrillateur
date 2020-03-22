@@ -11,11 +11,11 @@ __Ordre à start dans le "server.cfg"__ :
 - start esx_defibrillateur
 
 __Guide d'installation__ :
-- Téléchargé le script.
+- Télécharger le script.
 - Dézipper le script.
-- Renommer le dossier du script en "esx_defibrillateur" (enlevé le "-master").
+- Renommer le dossier du script en "esx_defibrillateur" (enlever le "-master").
 - Start le script dans <server.cfg>.
-- Dans <esx_ambulancejob/server/main.lua> -> ligne 10 modifié la ligne par :
+- Dans <esx_ambulancejob/server/main.lua> -> à la ligne 10 modifier la ligne par :
 
 
 Ancien :                                                                                                                                 
