@@ -1,6 +1,6 @@
-**Défibrillateur**
+**Défibrillateur mis à jour**
 
-Un défibrillateur en item et utilisable à l'infini.
+Un défibrillateur définit en tant qu'item avec un usage indéfini.
 
 __Script requis__ :
 - esx_ambulancejob
